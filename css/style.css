@@ -1,0 +1,284 @@
+/* All Commom CSS Start */
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+a,a:hover{
+    display: inline-block;
+    text-decoration: none;
+}
+
+
+ol,ul{
+    list-style-type: none;
+}
+
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0;
+    padding: 0;
+    line-height: 0.8;
+}
+
+body{
+    font-family: "Inter", sans-serif;
+}
+/* All Commom CSS End */
+
+/* Coded by LITAN MOLLA
+Contact: 
+Fb: https://www.facebook.com/LITANMOLLA09
+Email: contact@litanmolla.com */
+
+
+/* hedar Part Start */
+.navbar{
+    /* background: bisque; */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+
+
+.nav-link{
+    font-size: 18px;
+    color: #ffffff;
+    line-height: 26px;
+    transition: .5s;
+}
+
+.nav-link:hover{
+    color: #6A4DF4;
+}
+
+.nav-item{
+    margin: 0 10px;
+}
+
+.bannerContact{
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 26px;
+    background: #6A4DF4;
+    border-radius: 10px;
+    padding: 15px 42px;
+}
+
+/* hedar Part End */
+
+
+
+/* Banner Part Start */
+#bannerPart{
+    background: url(../images/bannerbg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner-overly{
+    background: rgba(0, 0, 0, 0.62);
+    padding-top: 300px;
+    padding-bottom: 175px;
+}
+
+.bannerPart h1{
+    font-size: 75px;
+    line-height: 120%;
+    font-weight: 700;
+    color: #ffffff;
+    padding: 0 200px;
+}
+
+.bannerPart p{
+    font-size: 16px;
+    line-height: 26px;
+    color: #ffffff; 
+    padding: 0 345px;
+    margin-top: 20px;
+}
+
+.bannerPart a{
+    font-size: 20px;
+    font-weight: 600;
+    color: #ffffff;
+    line-height: 26px;
+    background: #6A4DF4;
+    border-radius: 10px;
+    padding: 15px 42px;
+    margin-top: 45px;
+}
+/* Banner Part End */
+
+
+
+/* Section Part Start */
+/* Section Part End */
+
+
+
+/* Section Part Start */
+/* Section Part End */
+
+
+
+/* Section Part Start */
+/* Section Part End */
+
+
+
+/* Section Part Start */
+/* Section Part End */
+
+
+
+/* Section Part Start */
+/* Section Part End */
+
+
+
+/* Section Part Start */
+/* Section Part End */
+
+
+
+/* Section Part Start */
+/* Section Part End */
+
+
+
+/* Section Part Start */
+/* Section Part End */
+
+
+
+/* Section Part Start */
+/* Section Part End */
+
+
+
+/* Section Part Start */
+/* Section Part End */
+
+
+
+/* Section Part Start */
+/* Section Part End */
+
+
+
+/* Section Part Start */
+/* Section Part End */
+
+
+
+/* Section Part Start */
+/* Section Part End */
+
+
+
+/* Section Part Start */
+/* Section Part End */
+
+
+
+/* Section Part Start */
+/* Section Part End */
+
+
+
+/* Section Part Start */
+/* Section Part End */
+
+
+
+/* Section Part Start */
+/* Section Part End */
+
+
+
+/* Section Part Start */
+/* Section Part End */
+
+
+
+/* Section Part Start */
+/* Section Part End */
+
+
+
+/* Section Part Start */
+/* Section Part End */
+
+
+
+/* Section Part Start */
+/* Section Part End */
+
+
+
+/* Section Part Start */
+/* Section Part End */
+
+
+
+/* Section Part Start */
+/* Section Part End */
+
+
+
+/* Section Part Start */
+/* Section Part End */
+
+
+
+/* Section Part Start */
+/* Section Part End */
+
+
+
+/* Section Part Start */
+/* Section Part End */
+
+
+
+/* Section Part Start */
+/* Section Part End */
+
+
+
+/* Section Part Start */
+/* Section Part End */
+
+
+
+/* Section Part Start */
+/* Section Part End */
+
+
+
+/* Section Part Start */
+/* Section Part End */
+
+
+
+/* Section Part Start */
+/* Section Part End */
+
+
+
+/* Section Part Start */
+/* Section Part End */
+
+
+
+/* Section Part Start */
+/* Section Part End */
+
+
+
+
